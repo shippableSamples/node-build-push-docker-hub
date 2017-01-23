@@ -19,11 +19,9 @@ to docker hub
 
 ## CI Reports on Shippable
 
+### CI Integration View
+![CI Test Report](https://github.com/shippableSamples/node-with-tests-coverage/blob/master/public/resources/images/tests.jpg)
+
 ### CI Console Output
 ![CI Console Output](https://github.com/shippableSamples/node-with-tests-coverage/blob/master/public/resources/images/console.jpg)
 
-### CI Test Report
-![CI Test Report](https://github.com/shippableSamples/node-with-tests-coverage/blob/master/public/resources/images/tests.jpg)
-
-### CI Coverage Report
-![CI Coverage Report](https://github.com/shippableSamples/node-with-tests-coverage/blob/master/public/resources/images/coverage.jpg)
